@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm Talal, I'm 17 years old, just finished Highschool and looking forward to get into IT. I like Linux, Open-source and C programming; i'm a Newbie though, please have patience 👍 If you have any questions, you're free to hit me up. 
+
+ - I’m currently working on:
+   - [bash-web-monitor](https://github.com/talalalrwas/bash-web-monitor)
+ - I’m currently learning:
+   - C, bash, php
+
 <!--
 **talalalrwas/talalalrwas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
