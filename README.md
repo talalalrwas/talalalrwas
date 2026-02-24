@@ -1,6 +1,6 @@
 ### About
-Based in Damascus, Syria | 19 y/o IT Engineering Student  
-Always Learning new things :)
+Based in Damascus, Syria | 19 y/o IT Engineering Student   
+Always Learning new things :)   
 Aiming to be a Systems Engineer.
 
 ### Contact
